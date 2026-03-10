@@ -51,8 +51,9 @@
 
 <body>
     <div class="card">
-        <h2>Hello Nextwork! 🚀</h2>
+        <h2>Hello Nextwork!</h2>
         <p>Welcome to my DevOps journey.</p>
+	<p>If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
     </div>
 </body>
 </html>
